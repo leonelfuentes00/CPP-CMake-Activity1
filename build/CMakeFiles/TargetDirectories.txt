@@ -1,0 +1,3 @@
+C:/Proyectos Visual Studio/Ingenieria de Software/cpp-cmake-example-main/build/CMakeFiles/hello.dir
+C:/Proyectos Visual Studio/Ingenieria de Software/cpp-cmake-example-main/build/CMakeFiles/edit_cache.dir
+C:/Proyectos Visual Studio/Ingenieria de Software/cpp-cmake-example-main/build/CMakeFiles/rebuild_cache.dir
